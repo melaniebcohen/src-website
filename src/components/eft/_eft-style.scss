@@ -1,4 +1,4 @@
-.about {
+.eft {
   display: flex;
   flex-direction: row;
   align-content: center;
@@ -10,6 +10,10 @@
 
     p {
       margin-top: 10px;
+    }
+    
+    .small-text {
+      font-size: 10px;
     }
   }
 

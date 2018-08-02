@@ -9,7 +9,7 @@ const HomePage = () => {
       <ul>
         <li><Link to='/'>Home</Link></li>
         <li><Link to='/about'>About</Link></li>
-        <li>What is EFT?</li>
+        <li><Link to='/eft'>What is EFT?</Link></li>
         <li>Intensive Therapy</li>
         <li>Resources</li>
         <li>Blog</li>

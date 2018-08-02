@@ -7,7 +7,9 @@ const HomePage = () => {
     <section className='home-page'>
       <section className='welcome'>
         <div>
-          <p>I have been working as a psychologist since 1984 in my office near the <a href="http://www.pikeplacemarket.org/">Pike Place Market</a>. I enjoy working with couples and individuals. I’ve been married thirty years and am a grateful mom, stepmom and grandmother.</p>
+          <p>I have been working as a psychologist since 1984 in my office near the <a href='http://www.pikeplacemarket.org' target='_blank'>Pike Place Market</a>.
+          I enjoy working with couples and individuals. 
+          I’ve been married thirty years and am a grateful mom, stepmom and grandmother.</p>
         </div>
         <div>
           <p>I see individuals and couples about:</p>
@@ -33,7 +35,7 @@ const HomePage = () => {
         <div>
           I’ve been a Seattle psychologist in private practice since 1984. 
           I see individuals and couples (spouses and partners, parents and adult children, coworkers and teammates). 
-          I have been trained in <a href="http://www.susanrc.com/what-is-etf/">Emotionally Focused Therapy</a>. 
+          I have been trained in <Link to='/eft'>Emotionally Focused Therapy</Link>. 
           More about me is available <Link to='/about'>here</Link>.</div>
         <div>
           I am a Certified Emotionally Focused Therapist. 
