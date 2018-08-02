@@ -1,0 +1,20 @@
+.about {
+  border: 1px orange dashed;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+  div {
+    width: 45%;
+
+    p {
+      margin-top: 10px;
+    }
+  }
+  
+  span {
+    font-weight: bold;
+  }
+}
