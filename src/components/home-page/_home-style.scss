@@ -10,6 +10,12 @@
       display: inline-block;
       width: 30%;
     }
+
+    li::before {
+      color: #248C8D;
+      content: '\25AA';
+      padding-right: 10px;
+    }
   }
 
   .about {

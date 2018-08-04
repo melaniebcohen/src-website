@@ -1,0 +1,14 @@
+const resources = [
+  {
+    img: 'https://i2.wp.com/www.susanrc.com/wp-content/uploads/hmt_book.jpg?w=265',
+    title: 'Hold Me Tight: Seven Conversations for a Lifetime of Love by Sue Johnson, PhD (Little, Brown, 2008)',
+    desc: 'Hold Me Tight is the consumer book outlining EFT. The first part outlines the relationship of attachment theory to an adult model of love. From this model of love and thousands of hours spent watching couples sessions, Sue Johnson developed EFT, a systematic and evidence-based model of couples therapy. The second part talks about the “demon dialogues” or cyclical, negative discussions couples get into. These negative cycles fall into a few categories that she also outlines. After understanding that the cycle is the problem, not the individuals involved, Sue has specific questions each partner can answer to help unravel the repetitive nature of these discussions. While not simplistic, the concepts are intrinsically meaningful and the questions are important. This book can stand alone or be used as an effective adjunct to EFT therapy. The audio version is well done, but may make it difficult to refer back to the questions for further discussions.'
+  },
+  {
+    img: 'https://i1.wp.com/www.susanrc.com/wp-content/uploads/41cHrfM8XdL._SX332_BO1204203200_.jpg?w=334',
+    title: 'PASSIONATE MARRIAGE: SEX, LOVE, AND INTIMACY IN EMOTIONALLY COMMITTED RELATIONSHIPS, BY DAVID SCHNARCH, PH.D. (NORTON, 1997)',
+    desc: 'Dr. Schnarch’s most recent book has been greatly anticipated by his fans in the marital therapy community. He began his odyssey with a critical attack on the Masters and Johnson-style approach to marital therapy where people focused more on their own physiological responses than one another. In this book he develops a staggering idea: that individuals can learn to be fully who they are with one another and through that intimate exposure find themselves awake with sexual energy. Amazingly, he says this individual exposure is not even predicated on a “nonjudgemental, all accepting response“ from the other. Instead, he places the burden on each person to take responsibility for becoming individuated. Individuation is a tricky concept to communicate and he does a superb job of taking his readers on a journey of self-confrontation. The good news is that emotional maturity makes a difference: “Sexual potential and cellulite are positively correlated.” The bad news is that this is not a quick fix; you will need to be willing to explore yourself and your pre-conceptions to benefit from this model. This book is worth your time, your attention, and many good discussions with the one you love.'
+  },
+]
+
+export default resources;
